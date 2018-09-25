@@ -1,5 +1,5 @@
 _repo: The-Natural-History-of-Pliny-Volume-1-of-6-by-Pliny-the-Elder_57493
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Riley, Henry T. (Henry Thomas)
@@ -11,12 +11,17 @@ contributor:
   - agent_name: Bostock, John
     gutenberg_agent_id: '49421'
     url: http://www.gutenberg.org/2009/agents/49421
+covers:
+- cover_type: archival
+  image_path: 57493-h/images/cover.jpg
 creator:
   author:
     agent_name: Elder, Pliny the
     gutenberg_agent_id: '49420'
     url: http://www.gutenberg.org/2009/agents/49420
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57493#The-Natural-History-of-Pliny-Volume-1-of-6-by-Pliny-the-Elder
 gutenberg_issued: '2018-07-12'
 gutenberg_type: Text
 identifiers:
